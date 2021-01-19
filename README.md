@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.org/nobleburgundy/linting-example.svg?branch=main)](https://travis-ci.org/nobleburgundy/linting-example)
+[![Build Status](https://travis-ci.com/github/nobleburgundy/linting-example.svg?branch=main)](https://travis-ci.com/github/nobleburgundy/orbit)
 
 # linting-example
